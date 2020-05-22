@@ -1,6 +1,14 @@
 # Horiseon
-Horiseon Landing Page with info on company's capabilities.
 
+## Purpose
+A website to inform of Horiseon's marketing capabilities.
+
+## Snapshot
 ![Website Snapshot](./assets/images/screen-shot.png)
 
-URL: https://theresarutledge.github.io/horiseon/
+## Built With
+*HTML
+*CSS
+
+## Website
+https://theresarutledge.github.io/horiseon/
